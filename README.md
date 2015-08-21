@@ -1,6 +1,6 @@
 # ExpertQuest
 
-This work outlines a usable prototype expert finding system called ExpertQuest written in a modern functional programming language (Clojure) to query social media data and Linked Dat from Twitter and GitHub.
+This work outlines a usable prototype expert finding system called ExpertQuest written in a modern functional programming language (Clojure) to query social media data and Linked Data from Twitter and GitHub.
 
 For more information see the full report:
 
