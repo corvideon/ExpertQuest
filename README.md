@@ -1,6 +1,6 @@
 # ExpertQuest
 
-This work outlines a usable prototype expert finding system called ExpertQuest written in a modern functional programming language (Clojure) that finds experts using Twitter and GitHub data..
+This is a usable prototype expert finding system called ExpertQuest written in a modern functional programming language (Clojure) that finds experts using Twitter and GitHub data..
 
 For more information see the full report:
 
