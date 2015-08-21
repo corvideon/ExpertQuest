@@ -1,36 +1,29 @@
-# expertquest
+# ExpertQuest
 
 FIXME: description
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Clone from GitHub at https://github.com/corvideon/ExpertQuest/
+
 
 ## Usage
 
-FIXME: explanation
+You will need to edit the files in the config folder to add your own GitHub and Twitter API details.
 
-    $ java -jar expertquest-0.1.0-standalone.jar [args]
+Run ExpertQuest using Leiningen from the project folder:
 
-## Options
+$ lein run
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2015 FIXME
-
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
+Please see the license below:
+
+https://github.com/corvideon/ExpertQuest/blob/master/LICENSE
+
+Copyright © 2015 Corvideon
+
