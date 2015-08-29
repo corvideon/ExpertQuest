@@ -4,7 +4,7 @@ This is a usable prototype expert finding system called ExpertQuest written in a
 
 For more information see the full report:
 
-http://seamusbrady.ie/wp-content/uploads/2015/07/ExpertQuest.pdf
+http://seamusbrady.ie/wp-content/uploads/2015/08/ExpertQuest.pdf
 
 ## Installation
 
